@@ -1,0 +1,5 @@
+#需要的库
+win32相关（！！注意安装顺序！！）
+《pywin32》（可以使用exe安装，地址：https://sourceforge.net/projects/pywin32/files/pywin32/Build%20221/）
+安装了pywin32后安装《win32gui》
+需要的《win32con》和《win32clipboard》在pywin32或win32gui安装好自动就有了。
